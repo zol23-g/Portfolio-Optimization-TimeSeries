@@ -7,4 +7,6 @@ jupyter
 seaborn
 scikit-learn
 pmdarima
+tensorflow
+keras
 
